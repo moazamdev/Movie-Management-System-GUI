@@ -1,0 +1,2 @@
+﻿Black: #111111
+Sky Blue: #22b6c5

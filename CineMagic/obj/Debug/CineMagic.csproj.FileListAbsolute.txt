@@ -1,0 +1,28 @@
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\bin\Debug\CineMagic.exe.config
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\bin\Debug\CineMagic.exe
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\bin\Debug\CineMagic.pdb
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.Properties.Resources.resources
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.csproj.GenerateResource.cache
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.csproj.CoreCompileInputs.cache
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.exe
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.pdb
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.csproj.AssemblyReference.cache
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.AddMovie.resources
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.UpdateMovie.resources
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\bin\Debug\MovieDatabase.mdf
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\bin\Debug\MovieDatabase_log.ldf
+C:\Users\mozal\OneDrive - SSUET\🎓 Sir Syed University 🎓\2nd Semester\OOP Lab\Final Project\CineMagic\obj\Debug\CineMagic.CinMagicForm.resources
+D:\Final Project\CineMagic\bin\Debug\MovieDatabase.mdf
+D:\Final Project\CineMagic\bin\Debug\MovieDatabase_log.ldf
+D:\Final Project\CineMagic\bin\Debug\CineMagic.exe.config
+D:\Final Project\CineMagic\bin\Debug\CineMagic.exe
+D:\Final Project\CineMagic\bin\Debug\CineMagic.pdb
+D:\Final Project\CineMagic\obj\Debug\CineMagic.csproj.AssemblyReference.cache
+D:\Final Project\CineMagic\obj\Debug\CineMagic.CinMagicForm.resources
+D:\Final Project\CineMagic\obj\Debug\CineMagic.Properties.Resources.resources
+D:\Final Project\CineMagic\obj\Debug\CineMagic.csproj.GenerateResource.cache
+D:\Final Project\CineMagic\obj\Debug\CineMagic.csproj.CoreCompileInputs.cache
+D:\Final Project\CineMagic\obj\Debug\CineMagic.exe
+D:\Final Project\CineMagic\obj\Debug\CineMagic.pdb
+D:\Final Project\CineMagic\obj\Debug\CineMagic.login.resources
+D:\Final Project\CineMagic\obj\Debug\CineMagic.LoadingScreenUI.resources
